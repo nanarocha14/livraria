@@ -14,7 +14,7 @@
     "@types/node": "^18.11.2"
   },
   "scripts": {
-    "dev": "ts-node-dev --respawn --transpileOnly --ignore-watch node_modules src/server.ts"
+    "dev": "ts-node-dev --respawn --ignore-watch node_modules src/server.ts"
   },
   "repository": {
     "type": "git",
